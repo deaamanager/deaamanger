@@ -1,0 +1,27 @@
+
+#div01{
+
+    font-display: flexbox;
+    width: 300px;
+    height: 500px;
+    background-color: rgb(166, 125, 207);
+
+
+}
+body {
+    background-color: blueviolet;
+    height: 100px;
+    width: 200px;
+    display: flexbox;
+   
+}
+div{
+    color:aliceblue
+}
+
+p{
+    font-size: x-large;
+   
+    text-shadow: lightgreen 1px 2px;
+    
+}
